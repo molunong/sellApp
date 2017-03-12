@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02b43c83-5abf-4ac5-979e-009d6747f662" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/index.js" afterPath="$PROJECT_DIR$/config/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/goods/goods.vue" afterPath="$PROJECT_DIR$/src/components/goods/goods.vue" />
-    </list>
+    <list default="true" id="02b43c83-5abf-4ac5-979e-009d6747f662" name="Default" comment="" />
     <ignored path="sellapp.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -324,12 +320,12 @@
       <workItem from="1487132794014" duration="1489000" />
       <workItem from="1487415423154" duration="1194000" />
       <workItem from="1488891597888" duration="4968000" />
-      <workItem from="1489164446318" duration="2165000" />
+      <workItem from="1489164446318" duration="2309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12455000" />
+    <option name="totallyTimeSpent" value="12599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="679" y="37" width="1239" height="777" extended-state="0" />
